@@ -1,2 +1,4 @@
  dockerFilePath: docker/Dockerfile
- appName: flask-app
+ appName: frontent-cms
+ # serviceName: my-svc
+ # taskFamily: my-taskdef
