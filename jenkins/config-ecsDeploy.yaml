@@ -1,4 +1,4 @@
  dockerFilePath: docker/Dockerfile
- appName: frontent-cms
+ appName: my-app
  # serviceName: my-svc
  # taskFamily: my-taskdef
