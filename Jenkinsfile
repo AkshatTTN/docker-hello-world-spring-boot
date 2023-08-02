@@ -1,4 +1,4 @@
-@Library('git-shared_lib') _
+@Library('git-shared-lib') _
 DockerEcsDeploy([ 
  master: [
      containerRegistoryUrl: '919678485989.dkr.ecr.ap-south-1.amazonaws.com',
