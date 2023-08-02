@@ -1,4 +1,4 @@
  dockerFilePath: docker/Dockerfile
  appName: my-app
- # serviceName: my-svc
- # taskFamily: my-taskdef
+ serviceName: demo-svc2
+ taskDefinition: demo-task2
