@@ -1,4 +1,2 @@
  dockerFilePath: docker/Dockerfile
  appName: spring-boot
- serviceName: demo-svc2
- taskDefinition: demo-task2
